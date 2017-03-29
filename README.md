@@ -1,6 +1,6 @@
 # doc-site-examples
 Examples of different kinds of documentation that rock.
 
-I will add sites as I encounter them. I'll try to work with an organizational structure; it will develop holistically (I hope) as I add more sites.
+I will add specific documentation examples as I encounter them. I'll try to work with an organizational structure; it will develop holistically (I hope) more sites are added.
 
-I'm doing this as a personal reference so I can improve my documentation skillz.
+If you are looking for links to good documentation sites, I recommend " ". This repository, however, is intended for specific examples of documentation types/techniques found on those sites.
